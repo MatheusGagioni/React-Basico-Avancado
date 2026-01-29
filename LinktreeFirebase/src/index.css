@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "tailwindcss/preflight"
+@tailwind utilities;
+//@tailwind components;
+
+body{
+  min-height: 100vh;
+  background: linear-gradient(#232630, #050507);
+}
